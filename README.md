@@ -1,3 +1,3 @@
-# Kontko-s-Chat-Translator
+# Kontkos-Chat-Translator
 ESO addon for very simple word-for-word of chat messages
 Early proof-of-concept
