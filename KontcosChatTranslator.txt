@@ -1,0 +1,5 @@
+## Title: Kontco's Chat Translator
+## APIVersion: 101045
+## Version: 1.0
+## Author: Kontko
+KontcosChatTranslator.lua
